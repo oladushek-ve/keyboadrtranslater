@@ -25,4 +25,3 @@ def replase_word():
 
 if __name__ == '__main__':
 	replase_word() 
-
